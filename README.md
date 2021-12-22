@@ -1,16 +1,18 @@
-### Hi there 👋
+<p align="center">
+   <img align="center" width="200" src="https://avatars.githubusercontent.com/u/15209144?v=4" />
+   <h3 align="center">¡Hey 👋! I am Ivan L'olivier 👨🏻‍💻</h3>
+</p>
 
-<!--
-**ivanlolivier/ivanlolivier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Super smart and extremely humble coder 😂
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <strong>Full Stack JS Developer</strong> with more than 10 years of experience.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+ Currently working on an aplication for Scrap Recyclers ♻️ at ReMatter
+</p>
+
+
