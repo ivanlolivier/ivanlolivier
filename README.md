@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <strong>Full Stack JS Developer</strong> with more than 10 years of experience 🦸‍♂️.
+  <strong>Full Stack JS Developer</strong> with more than 10 years of experience 🦸‍♂️
 </p>
 
 <p align="center">
