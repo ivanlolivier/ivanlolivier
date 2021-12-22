@@ -1,5 +1,5 @@
 <p align="center">
-   <img align="center" width="200" src="https://avatars.githubusercontent.com/u/15209144?v=4" />
+   <img align="center" width="200" src="https://github.com/ivanlolivier/ivanlolivier/blob/main/IMG_4306%20(1).jpg?raw=true" />
    <h3 align="center">¡Hey 👋! I am Ivan L'olivier 👨🏻‍💻</h3>
 </p>
 
