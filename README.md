@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
- Currently working on an application for Scrap Recyclers ♻️ at ReMatter 🚀
+ Currently working on an application for Metal Scrap Recyclers ♻️ at ReMatter 🚀
 </p>
 
 
