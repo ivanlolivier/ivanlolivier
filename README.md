@@ -8,11 +8,11 @@
 </p>
 
 <p align="center">
-  <strong>Full Stack JS Developer</strong> with more than 10 years of experience 🦸‍♂️
+  <strong>Full Stack JS Developer</strong> with 15 years of experience 🦸‍♂️
 </p>
 
 <p align="center">
- Currently working on an application for Metal Scrap Recyclers ♻️ at ReMatter 🚀
+ Currently working on a Software for Bookkeepers and Accountants 🧾 at Keeper.app 🚀
 </p>
 
 
